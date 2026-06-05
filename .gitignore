@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Screenshots (optional - remove this line if you want to commit screenshots)
+screenshot.png
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
