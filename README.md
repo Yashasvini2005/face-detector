@@ -12,9 +12,6 @@ Real-time face detection using OpenCV and Python.
 1. Install requirements: `pip install -r requirements.txt`
 2. Run: `python detect.py`
 
-## Demo
-![Demo](screenshot.png)
-
 ## Skills Shown
 - Computer Vision (OpenCV)
 - Real-time video processing
